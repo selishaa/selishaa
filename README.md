@@ -1,10 +1,7 @@
 <h1 align="center">Hey! 👋, I'm Selisha</h1>
 <h3 align="center">A passionate CS Student</h3>
 
-<img align="right" alt="coding" src=" ![image](https://github.com/selishaa/selishaa/assets/89132278/62b3784d-30be-49cc-8b7f-ae2f2e16965a)
-
-
- ">     
+<img align="right" alt="coding" src="https://github.com/selishaa/selishaa/assets/89132278/62b3784d-30be-49cc-8b7f-ae2f2e16965a">     
  
 
 - 🔭 I’m currently working on **code path Web Development course**
